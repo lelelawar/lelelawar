@@ -1,5 +1,5 @@
 
-![Header](./img/pixel-ibnu-azmi.png)
+![Header](./img/pixel-Ibnu-Azmi.png)
 
 ## Tech Stack
 
