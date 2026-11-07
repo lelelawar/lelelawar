@@ -15,7 +15,7 @@
 - 🌱 Always learning new technologies
 
 ## GitHub Stats
-![](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=shadow_blue&hide_border=true)
+![](https://streak-stats.demolab.com/?user=lelelawar&theme=shadow_blue&hide_border=true)
 
 ## Play With Me
 
