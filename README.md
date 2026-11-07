@@ -1,5 +1,5 @@
 
-![Header](./img/github-header-banner.png)
+![Header](./img/pixel-ibnu-azmi.png)
 
 ## Tech Stack
 
