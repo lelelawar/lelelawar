@@ -1,59 +1,31 @@
 
-<div align="center">
+![Header](./img/github-header-banner.png)
 
-# Hi, I'm Ibnu Azmi 👋
+## Tech Stack
 
-### Information Systems Student | Aspiring Software Developer
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,flutter,mysql,python,git,github,vscode&theme=dark&perline=8)](https://skillicons.dev)
 
-<img src="img/banner.png" width="100%" alt="Profile Banner">
+## About Me
 
-</div>
+**I'm an Information Systems student at Universitas Bina Sarana Informatika who is interested in Web Development and Data Analytics.**
 
----
+**Currently, I'm exploring Laravel Development, Database Management, and Data Analytics while building personal and academic projects.**
 
-## 👨‍💻 About Me
+- 🎓 Information Systems Student — Semester 7
+- 💻 Interested in Software Development
+- 📊 Learning Data Analytics and Power BI
+- 🌱 Always learning new technologies
 
-- 🎓 Active Information Systems student.
-- 💻 Interested in Web Development and Data Analytics.
-- 🌱 Currently learning Laravel, PHP, SQL, and Python.
-- 🚀 Building projects to improve my programming skills.
+## GitHub Stats
 
----
+![](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=shadow_blue&hide_border=true)
 
-## 🛠️ Tech Stack
+## Play With Me
 
-### Languages
-![My Skills](https://skillicons.dev/icons?i=php,js,python,html,css)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-### Frameworks & Tools
-![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap,flutter,mysql,git,github,vscode)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="49%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="49%">
-
-</div>
-
----
-
-## 📂 Featured Projects
-
-- Laravel Pengarsipan
-- Web Development Projects
-- Data Analytics Projects
-
----
-
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/snake-output/snake.svg" alt="Snake animation" />
