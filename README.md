@@ -1,7 +1,7 @@
 ![Header](./img/pixel-Ibnu-Azmi.png)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,flutter,mysql,python,git,github,vscode&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,flutter,mysql,python,react,git,github,vscode&theme=dark&perline=8)](https://skillicons.dev)
 <br/>
 ## About Me
 
